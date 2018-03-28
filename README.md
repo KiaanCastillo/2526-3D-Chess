@@ -16,3 +16,5 @@ Possible moves it can make on:
   <li>Layer 2: Normal moves  |  Max Tiles it Can Move: 1</li>
   <li>Layer 3: Normal moves  |  Max Tiles it Can Move: 7 (Regular chess movement)</li>
 </ul>
+
+To play the game, download the executable .jar file "3DChess.jar".
